@@ -8,7 +8,4 @@ previously, I have used blob trigger and http trigger which starts vm, when any 
 
 
 
-
-
-
 https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-grid-blob-trigger?pivots=programming-language-python
