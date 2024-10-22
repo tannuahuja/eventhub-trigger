@@ -18,4 +18,10 @@ You need to process files in a batch-oriented manner.
 Your application is simpler and doesn't require the scalability or complexity of an event streaming solution.
 
 
+
+
+## error facing
+Getting validation handshake failed exception while configuring webhook for event subscription
+because of event subscription endpoint was wrong
+
 https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-grid-blob-trigger?pivots=programming-language-python
