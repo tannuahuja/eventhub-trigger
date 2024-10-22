@@ -2,7 +2,7 @@ import logging
 import requests
 import azure.functions as func
 
-app = func.FunctionApp()
+app = func.FunctionApp() 
 
 # Function to send data to the backend API
 def send_data_to_api(video_name, video_path):
