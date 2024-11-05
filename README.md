@@ -4,7 +4,7 @@ previously, I have used blob trigger and http trigger which starts vm, when any 
 
 
 ## So we are using evethub trigger
-
+ 
 
 
 #### Choose Event Hub Trigger if:
