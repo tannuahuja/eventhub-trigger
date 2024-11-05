@@ -5,7 +5,6 @@
 
 ## So we are using evethub trigger
 
- 
 #### Choose Event Hub Trigger if:
 You need real-time processing of data.
 You expect high-throughput and need to handle large volumes of events.
