@@ -1,4 +1,4 @@
-# Eventhub-trigger
+# Eventhub-trigger :
 
 previously, I have used blob trigger and http trigger which starts vm, when any video is uploaded and sends the hit to the backend API but this function is not working sometimes it is not sending hits.
 
