@@ -27,3 +27,9 @@ Getting validation handshake failed exception while configuring webhook for even
 because of event subscription endpoint was wrong
 
 https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-grid-blob-trigger?pivots=programming-language-python
+
+
+
+
+
+#[ https://learn.microsoft.com/en-us/answers/questions/1314474/getting-validation-handshake-failed-exception-whil](https://learn.microsoft.com/en-us/answers/questions/1314474/getting-validation-handshake-failed-exception-whil)
